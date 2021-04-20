@@ -1,0 +1,31 @@
+{
+    "prefix": "!",
+    "token": "ODMzODQ3NzY5MDE3MjIxMTQx.YH4TQA.cpt3_5nUZrNUEDqEJFUgL9fLW0s",
+  
+    "ipservidor": "26.22.117.108",
+    "portaservidor": "30120",
+  
+    "conexaodb" : "127.0.0.1",
+    "userdb" : "root",  
+    "senhadb" : "",
+    "db" : "lucashype",
+  
+    "iddono": "616741657261375505",
+
+
+    "canalwl": "824683796585644072",
+
+    "idservidor": "824680838754861166",
+
+    "idcategoriawl": "824680838754861168",
+
+    "resultadowlstaff": "833192075414994994",
+    "resultadowlacertos": "826124305397055528",
+    "resultadowl_errados": "826124354823520327",
+  
+    "margemdeacertos": "7",
+  
+    "whitelistcargo": "[🎈] WL│Cristo",
+    "nonwhitelistcargo": "[🎈] WL│Aguardando"
+  
+}
